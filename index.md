@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Compile and Run the Demos
 
-You can use the [editor on GitHub](https://github.com/abigailkramer/hw4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**TriangleColored.cpp**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![colored_tri](https://user-images.githubusercontent.com/59031606/112705193-aa048580-8e6b-11eb-8766-b53806419278.png)
 
-### Markdown
+**Cube.cpp**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![cube](https://user-images.githubusercontent.com/59031606/112705148-7c1f4100-8e6b-11eb-8626-e9d4855715aa.png)
 
-```markdown
-Syntax highlighted code block
+**CubeLit.cpp**
 
-# Header 1
-## Header 2
-### Header 3
+![lit_cube1](https://user-images.githubusercontent.com/59031606/112705236-d6200680-8e6b-11eb-8382-89e0df7e6c35.png)
 
-- Bulleted
-- List
+![lit_cube2](https://user-images.githubusercontent.com/59031606/112705250-e3d58c00-8e6b-11eb-9230-5a32b6e2b83f.png)
 
-1. Numbered
-2. List
+**ModelLoad.cpp**
 
-**Bold** and _Italic_ and `Code` text
+![teapot](https://user-images.githubusercontent.com/59031606/112705592-9bb76900-8e6d-11eb-9c37-d31734055fb5.png)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abigailkramer/hw4/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Quick Checks Questions
