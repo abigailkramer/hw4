@@ -1,3 +1,9 @@
+## Description
+
+Getting the demos to run took a bit of work. As I did with project one, I used (https://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/msvc2019/index.php) as a reference to get SDL properly set up in the Visual Studio project. From there, I did have an issue with the glm folder. I ended up adding the folder path to "Include Directories" under project properties. After this, the demos ran smoothly.
+
+The first three questions for section B were pretty straight forward. The changes for Q1 and Q2 were visible, and intuitive enough to understand. Q3 was extremely similar to a feature I had implemented for project 1, so that went well. Q4 took me a little bit, just in terms of figuring out how the vertices were being read from the file. 
+
 ## Compile and Run the Demos
 
 **TriangleColored.cpp**
