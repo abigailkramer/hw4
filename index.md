@@ -20,3 +20,13 @@
 
 
 ## Quick Checks Questions
+
+### Q1
+
+### Q2
+
+### Q3
+
+The only thing I needed to change for this was to add another if statement in the event loop, checking if the 'q' key was let up. If it was, the quit variable was set to true;
+
+### Q4
