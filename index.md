@@ -25,6 +25,10 @@
 
 ### Q2
 
+The resulting image after removing this call is a cube that you can kinda see the inside of? Not see-through, but you see through the side(s) that should be facing you.
+
+![image](https://user-images.githubusercontent.com/59031606/112741300-29688680-8f4a-11eb-9835-9f4dc0a33530.png)
+
 ### Q3
 
 The only thing I needed to change for this was to add another if statement in the event loop, checking if the 'q' key was let up. If it was, the quit variable was set to true;
