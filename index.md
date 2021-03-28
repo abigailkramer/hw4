@@ -23,6 +23,8 @@
 
 ### Q1
 
+Changing these parameters changes where the "My OpenGL Program" window opens. For example, putting zero for the second and third parameter makes the window appear at the very top left of the desktop.
+
 ### Q2
 
 The resulting image after removing this call is a cube that you can kinda see the inside of? Not see-through, but you see through the side(s) that should be facing you.
