@@ -36,3 +36,5 @@ The resulting image after removing this call is a cube that you can kinda see th
 The only thing I needed to change for this was to add another if statement in the event loop, checking if the 'q' key was let up. If it was, the quit variable was set to true;
 
 ### Q4
+
+![image](https://user-images.githubusercontent.com/59031606/112765061-fcab8200-8fd0-11eb-8c7f-7523fd7cba68.png)
